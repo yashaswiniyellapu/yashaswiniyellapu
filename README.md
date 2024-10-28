@@ -1,6 +1,6 @@
 # Hi there, I'm Yashaswini Yellapu 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yashaswiniyellapu&color=blue)
  
 I thrive on the challenge of transforming complex technical problems into innovative solutions.
 
